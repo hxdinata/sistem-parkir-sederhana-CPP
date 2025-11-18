@@ -1,5 +1,5 @@
 Sistem Parkir Sederhana (C++)
-
+---
 Deskripsi
 
     Proyek ini adalah implementasi sederhana sistem parkir berbasis C++ dengan antarmuka menu terminal. Cocok untuk latihan struktur data, pengelolaan antrian, dan dasar logika bisnis aplikasi parkir.
